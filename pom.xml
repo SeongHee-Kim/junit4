@@ -395,7 +395,7 @@
 		                    <formats>
 		                        <format>xml</format>
 		                    </formats>
-		                </configuration>
+		        </configuration>
      		</plugin>
         </plugins>
     </build>
